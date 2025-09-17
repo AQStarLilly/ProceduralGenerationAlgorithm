@@ -165,7 +165,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   width: 50
   height: 23
-  steps: 300
+  steps: 500
   floorPrefab: {fileID: 6627418512870276882, guid: ecdd6f7f9936e3047a306e95cdeef30b, type: 3}
   wallPrefab: {fileID: 6113363920455998992, guid: ee889aadc79128a4a8915f757756738b, type: 3}
 --- !u!1 &519420028

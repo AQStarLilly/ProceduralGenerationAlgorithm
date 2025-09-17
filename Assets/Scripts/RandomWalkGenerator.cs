@@ -5,8 +5,8 @@ using UnityEngine.InputSystem.Android;
 public class RandomWalkGenerator : MonoBehaviour
 {
     public int width = 50;
-    public int height = 50;
-    public int steps = 300;
+    public int height = 23;
+    public int steps = 500;
 
     public GameObject floorPrefab;
     public GameObject wallPrefab;
